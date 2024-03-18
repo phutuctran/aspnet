@@ -1,0 +1,12 @@
+D:\ASP.NetAPI\ASP.NetAPI\obj\Debug\net8.0\PubTmp\Out\ASP.NetAPI.exe
+D:\ASP.NetAPI\ASP.NetAPI\obj\Debug\net8.0\PubTmp\Out\appsettings.Development.json
+D:\ASP.NetAPI\ASP.NetAPI\obj\Debug\net8.0\PubTmp\Out\appsettings.json
+D:\ASP.NetAPI\ASP.NetAPI\obj\Debug\net8.0\PubTmp\Out\ASP.NetAPI.dll
+D:\ASP.NetAPI\ASP.NetAPI\obj\Debug\net8.0\PubTmp\Out\ASP.NetAPI.deps.json
+D:\ASP.NetAPI\ASP.NetAPI\obj\Debug\net8.0\PubTmp\Out\ASP.NetAPI.runtimeconfig.json
+D:\ASP.NetAPI\ASP.NetAPI\obj\Debug\net8.0\PubTmp\Out\ASP.NetAPI.pdb
+D:\ASP.NetAPI\ASP.NetAPI\obj\Debug\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\ASP.NetAPI\ASP.NetAPI\obj\Debug\net8.0\PubTmp\Out\Newtonsoft.Json.dll
+D:\ASP.NetAPI\ASP.NetAPI\obj\Debug\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\ASP.NetAPI\ASP.NetAPI\obj\Debug\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ASP.NetAPI\ASP.NetAPI\obj\Debug\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

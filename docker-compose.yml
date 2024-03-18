@@ -1,0 +1,9 @@
+version: "3"
+
+services:
+  app:
+    image: asp-netapi:cicd-aspnet
+    ports:
+      - "6300:8080"
+      - "6301:8081"
+    restart: unless-stopped
